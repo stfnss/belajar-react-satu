@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/belajar-react-satu/static/css/main.d8267496.css",
+    "main.js": "/belajar-react-satu/static/js/main.a100cd61.js",
+    "index.html": "/belajar-react-satu/index.html",
+    "main.d8267496.css.map": "/belajar-react-satu/static/css/main.d8267496.css.map",
+    "main.a100cd61.js.map": "/belajar-react-satu/static/js/main.a100cd61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8267496.css",
+    "static/js/main.a100cd61.js"
+  ]
+}

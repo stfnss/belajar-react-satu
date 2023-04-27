@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/belajar-react-satu/static/css/main.9d479f5e.css",
-    "main.js": "/belajar-react-satu/static/js/main.bd90906f.js",
+    "main.css": "/belajar-react-satu/static/css/main.a49fcea6.css",
+    "main.js": "/belajar-react-satu/static/js/main.31532767.js",
     "index.html": "/belajar-react-satu/index.html",
-    "main.9d479f5e.css.map": "/belajar-react-satu/static/css/main.9d479f5e.css.map",
-    "main.bd90906f.js.map": "/belajar-react-satu/static/js/main.bd90906f.js.map"
+    "main.a49fcea6.css.map": "/belajar-react-satu/static/css/main.a49fcea6.css.map",
+    "main.31532767.js.map": "/belajar-react-satu/static/js/main.31532767.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d479f5e.css",
-    "static/js/main.bd90906f.js"
+    "static/css/main.a49fcea6.css",
+    "static/js/main.31532767.js"
   ]
 }
